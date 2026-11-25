@@ -138,12 +138,8 @@ pip install -r requirements.txt
 
 ---
 
-## Team
-
-**Group 5**, Department of AI & Data Science, Amrita Vishwa Vidyapeetham
 - Rohith Meka
-- S S T M S Jaswanth
-- S V Pavan Kalyan
+GitHub: @rohithmeka
 
 Course: Computer Networks · Instructor: Dr. Sundaresan
 
